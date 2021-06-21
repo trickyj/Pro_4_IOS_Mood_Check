@@ -4,11 +4,11 @@
 
 >This is the Launch screen.
 
-<a href="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.25.16.png"><img src="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.25.16.png" height="600" width="450"></a>
+<a href="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.25.16.png"><img src="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.25.16.png"></a>
 
 >This is the main App screen.
 
-<a href="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.24.28.png"><img src="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.24.28.png" height="600" width="450"></a>
+<a href="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.24.28.png"><img src="/App_Screenshot/Simulator Screen Shot - iPhone 11 - 2021-06-21 at 05.24.28.png"></a>
 
 
 ## Our Goal
